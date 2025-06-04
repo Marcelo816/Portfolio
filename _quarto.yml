@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: "."
 website:
-  title: "Pagina"
+  title: "Portfolio do Marcelo"
   navbar:
     left:
       - href: index.qmd
