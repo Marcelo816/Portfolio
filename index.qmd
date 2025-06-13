@@ -4,39 +4,44 @@ format: html
 page-layout: full
 freeze: auto
 ---
+
 # 👋 Olá! Eu sou Marcelo Augusto Capraro Filho
-**Estudante de Ciência de Dados | Estagiário em Business Intelligence | Entusiasta de Análise de Dados**
-Sou um profissional motivado e orientado para crescimento, atualmente cursando **Ciência de Dados para Negócios com dupla diplomação em Administração** (FAE Centro Universitário). Tenho interesse especial em transformar dados em decisões que gerem impacto real nos negócios.
+
+**Estudante de Ciência de Dados | Estagiário em Business Intelligence | Entusiasta de Análise de Dados**  
+Sou um profissional motivado e orientado para crescimento, atualmente cursando **Ciência de Dados para Negócios com dupla diplomação em Administração** (FAE Centro Universitário). Tenho interesse especial em transformar dados em decisões que gerem impacto real nos negócios.  
 Ao longo da minha formação, participei de diversos projetos práticos com foco em análise de dados, inteligência de negócios e visualização de informações. Já colaborei com empresas como **Britânia Eletrodomésticos**, utilizando ferramentas como **Power BI, SQL, Python** e **SSIS**.
----
+
 ## 🚀 Experiências Acadêmicas e Profissionais
+
 - **Data Analysis in Business – Britânia Eletrodomésticos**  
- Criação de um chatbot em Python para respostas automatizadas em planilhas de controle de custo.  
- Uso de SSIS e Pentaho para integração de dados.
+  Criação de um chatbot em Python para respostas automatizadas em planilhas de controle de custo.  
+  Uso de SSIS e Pentaho para integração de dados.
 - **Dashboard Competition – Le War Pro**  
- Análise de dados de recrutamento com Power BI, cruzando registros e comportamento de candidatos.
+  Análise de dados de recrutamento com Power BI, cruzando registros e comportamento de candidatos.
 - **People Analytics – Dmsbox**  
- Dashboard de insights entre candidatos e colaboradores da empresa.
+  Dashboard de insights entre candidatos e colaboradores da empresa.
 - **Projeto de Otimização com Python**  
- Desenvolvimento de script para otimização da emissão de notas fiscais eletrônicas (NF-e).
+  Desenvolvimento de script para otimização da emissão de notas fiscais eletrônicas (NF-e).
 - **Data Driven Marketing – Britânia**  
- Aplicação de metodologias ágeis e análise de dados para estratégias de marketing e expansão comercial.
----
+  Aplicação de metodologias ágeis e análise de dados para estratégias de marketing e expansão comercial.
+
 ## 🧠 Principais Habilidades
+
 ### Soft Skills
 - Comunicação | Flexibilidade | Raciocínio Lógico  
 - Trabalho em Equipe | Inovação | Resolução de Problemas
+
 ### Hard Skills
 - **Power BI** (Avançado) | **SQL** (Avançado) | **Excel** (Básico)  
 - **Looker Studio** (Intermediário) | **Python** (Básico)  
 - **SSIS / Pentaho / PDI** (Intermediário)  
 - **GIT / Airflow / NOSQL** (Básico)
----
+
 ## 🌐 Idiomas
 - **Português**: Nativo  
 - **Inglês**: Avançado (com vivência internacional – intercâmbio em Toronto)  
 - **Espanhol**: Básico
----
+
 ## 📫 Contato
 - 📧 **marcelocaprarof@gmail.com**  
 - 📞 **+55 (41) 99247-8038**  
